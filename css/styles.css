@@ -93,6 +93,7 @@ header {
   cursor: pointer;
 }
 .banderogus-image {
+  height: 100%;
   align-self: flex-end;
 }
 /* /HEADER */
